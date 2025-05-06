@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditi Krishana!
 
 I’m an AI and Analytics Engineer with hands-on experience in developing multilingual AI solutions, speech technologies, and medical image analysis. Skilled in Python, machine learning (PyTorch, Scikit-Learn), web development (Flask, Vue.js), and data visualization, I've contributed to projects at IIT Madras and industry, including TTS systems, ASR evaluation, and brain image segmentation using deep learning.
----
+
 
 ## 🚀 Featured Projects
 
