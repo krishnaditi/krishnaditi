@@ -3,7 +3,7 @@
 
 I’m an AI Engineer with hands-on experience in developing multilingual AI solutions, speech technologies, and medical image analysis. Skilled in Python, Machine Learning (PyTorch, Scikit-Learn), Web development (Flask, Vue.js), and Data Visualization, I've contributed to projects at IIT Madras and Industry, including TTS systems, ASR evaluation, and brain image segmentation using Deep Learning.
 
-
+<---
 ## 🚀 Featured Projects
 
 ### 🧠 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)
@@ -37,3 +37,4 @@ Extracts key information from resumes using NLP techniques.
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Email](mailto:youremail@example.com)
+- -->
