@@ -94,11 +94,15 @@ I focus on **hands-on, system-first learning**, guiding students through:
 
 ### 🎓 Education
 
+**B.S. Data Science & Applications**  
+Relevant Courses: Machine Learning, Deep Learning, NLP, Computer Vision, Probability & Statistics, Linear Algebra, Optimization,
+and Data Systems
+
 **M.Sc. Chemistry**  
-Relevant Coursework: Mathematical Methods, Statistics, Computational Chemistry, Numerical Modeling, Research Methodology  
+Relevant Courses: Mathematical Methods, Statistics, Computational Chemistry, Numerical Modeling, Research Methodology  
 
 **B.Sc. Chemistry**  
-Relevant Coursework: Calculus, Linear Algebra, Statistics, Physical and Analytical Chemistry  
+Relevant Courses: Calculus, Linear Algebra, Statistics, Physical and Analytical Chemistry  
 
 ---
 
