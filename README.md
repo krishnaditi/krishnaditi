@@ -109,12 +109,15 @@ Relevant Courses: Calculus, Linear Algebra, Statistics, Physical and Analytical 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaditi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaditi&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaditi&show_icons=true&theme=default&cache_seconds=3600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaditi&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaditi&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaditi&theme=default" />
 </p>
 
 ---
