@@ -1,101 +1,125 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/7b40823aa1c3e30ead424c3926f54b4301a0d4994c0875c09b7eeaa14a9c41a5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f746578743d26747970653d776176696e6726616e696d6174696f6e3d66616465496e266865696768743d32303026636f6c6f723d6772616469656e74" alt="Banner" width="100%"/> </p>
-<h1 align="center">👋 Hi, I'm Aditi Krishana!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn" width="100%"/>
+</p>
 
-AI & Data Science Professional | Mentor | IIT Madras
+<h1 align="center">👋 Hi, I'm Aditi Krishana</h1>
 
-I build intelligent systems that connect AI research, real-world applications, and education.
-My work includes multilingual AI tutors, Retrieval-Augmented Generation (RAG) bots, deep learning pipelines, and computer vision projects. I also mentor students in building production-ready apps using modern frameworks and tools.
+<p align="center">
+Applied AI Engineer • Entrepreneur • GenAI Instructor • IIT Madras
+</p>
 
-🚀 Tech Stack
+---
 
-Languages: Python, JavaScript, Java
+### 🚀 About Me
 
-Web & App Development: Flask, FastAPI, Vue.js, HTML, CSS, Jinja2
+I build **production-grade AI systems** at the intersection of **Generative AI, multilingual AI, and education-focused applications**.  
+My work spans **RAG-based systems, AI tutors, LLM-powered applications**, and **end-to-end AI product development**, with a strong focus on **India-centric and low-resource contexts**.
 
-Databases: SQLite, PostgreSQL, SQLAlchemy, Redis
+I also teach and mentor learners in **Generative AI and application development**, helping them move from concepts to real-world systems.
 
-Task Queues & Deployment: Celery, Docker
+---
 
-Data & Analytics: Pandas, NumPy, SciPy, Tableau, PowerBI, Matplotlib
+### 🧠 Core Focus Areas
 
-AI & ML: PyTorch, Scikit-Learn, Deep Learning, NLP, LangChain, Computer Vision
+- Applied Generative AI & LLM Systems  
+- Multilingual & Indic AI (Low-resource settings)  
+- Retrieval-Augmented Generation (RAG)  
+- AI for Education, FinTech & Public Impact  
+- End-to-End AI Product Development  
+- Teaching, Mentorship & Curriculum Design  
 
-💼 Experience
+---
 
-Project Associate @ CEET (2025–Present)
+### 🛠️ Tech Stack
 
-Developed AI Tutor in 22 Indian languages.
+**Generative AI & LLMs**  
+LLMs (Qwen, LLaMA, Mistral), Prompt Engineering, RAG, Fine-tuning / PEFT, LangChain, Embeddings, Vector Databases  
 
-Built Teacher & Student RAG Bots for multilingual education.
+**Backend & AI Systems**  
+Python, FastAPI, Flask, REST APIs, AI Pipelines, Model Deployment  
 
-Designed AI Agent Knowledge Bank for scalable agent development.
+**Frontend**  
+Vue.js, HTML, CSS, Bootstrap, Jinja2  
 
-Mentored students in Flask, Vue.js, Jinja2, SQLAlchemy, Redis, Celery.
+**Data & Infrastructure**  
+Qdrant, Supabase, Redis, Celery, SQLite, SQLAlchemy  
 
-AI Engineer @ 32mins DCS (2024–2025)
+**Teaching & Communication**  
+Technical Instruction, Mentoring, Course Design, Stakeholder Communication  
 
-Built video analysis pipelines using YOLOv8 + PaddleOCR.
+---
 
-Designed multilingual text extraction & overlay systems.
+### 💼 Experience
 
-Research Intern @ AI4Bharat, IIT Madras (2024)
+**Entrepreneur & Applied AI Lead — CEET, IIT Madras** *(2025 – Present)*  
+- Building multilingual AI systems for education, FinTech, and public-sector use cases  
+- Leading AI lab execution across research, engineering, and deployment  
+- Coordinating cross-functional teams and external stakeholders  
 
-Enhanced TTS models (FastPitch & VITS) for natural speech synthesis.
+**GenAI & Application Development Instructor — Druva Moksh (Remote)**  
+- Teaching Generative AI concepts including LLMs, RAG, prompt engineering, and AI pipelines  
+- Mentoring learners through hands-on application development using Flask, FastAPI, and Vue.js  
 
-Analytics Intern @ IITM Brain Centre (2024)
+**Research Intern — AI4Bharat, IIT Madras**  
+- Improved Indic TTS models (FastPitch, VITS) for natural speech synthesis  
 
-Applied U-Net & YOLOv5 for brain imaging and tumor detection.
+---
 
-📚 Featured Projects
+### 📚 Featured Projects
 
-Some highlights from my portfolio (repos linked):
+#### 🤖 Teacher RAG Assistant
+Multilingual RAG-based teaching assistant built using FastAPI, Deno, Supabase, Qdrant, LangChain, and Docling, powered by **Qwen-32B** for curriculum-aligned content retrieval.
 
-🌊 Flood Detection AI
-Detects flooded regions with 82% accuracy, reducing response times by 30%.
+#### 🎓 Student RAG Assistant
+Multilingual AI assistant supporting STEM learning, exam stress management, and career guidance using **LLaMA-3-4B** with a scalable RAG architecture.
 
-🛒 E-commerce Behavior Prediction
-ML model predicting shopper intent with 85% accuracy.
+#### 🌐 Social Web Application
+Full-stack social platform built using Flask REST APIs, Vue.js, Redis, and Celery, enabling posts, likes, comments, and follower–following workflows.
 
-📊 Road Accident Dashboard (Tableau)
-Interactive dashboard offering actionable safety insights.
+---
 
-📦 Business Data Management
-Automated data workflows in Excel for strategic decision-making.
+### 👩‍🏫 Teaching & Mentorship
 
-🤖 Multilingual AI Tutor
-Adaptive tutoring system supporting 22 Indian languages.
+I focus on **hands-on, system-first learning**, guiding students through:
 
-📚 Teacher RAG Bot
-Retrieval-based bot delivering multilingual teaching resources.
+- Generative AI & LLM-based systems  
+- RAG pipelines and real-world AI applications  
+- Backend development with Flask & FastAPI  
+- Frontend integration using Vue.js  
+- Production workflows using Redis & Celery  
 
-👩‍🏫 Teaching & Mentorship
+> *Learning by building is the core philosophy I teach.*
 
-I guide students in real-world application development with:
+---
 
-Backend: Flask, FastAPI
+### 🎓 Education
 
-Frontend: Vue.js, HTML, CSS, Jinja2
+**M.Sc. Chemistry**  
+Relevant Coursework: Mathematical Methods, Statistics, Computational Chemistry, Numerical Modeling, Research Methodology  
 
-Databases: SQLite, PostgreSQL, SQLAlchemy
+**B.Sc. Chemistry**  
+Relevant Coursework: Calculus, Linear Algebra, Statistics, Physical and Analytical Chemistry  
 
-Advanced Tools: Redis, Celery
+---
 
-Full Dev Cycle: Analysis → Design → Development → Deployment
+### 📊 GitHub Stats
 
-💡 I focus on hands-on learning and real project experience.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaditi&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaditi&layout=compact&theme=radical" height="180"/>
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" /> </p>
-📝 Publications
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaditi&theme=radical"/>
+</p>
 
-IndicVoices-R: Unlocking a massive multilingual multi-speaker speech corpus for scaling Indian TTS.
+---
 
-🌐 Connect with Me
+### 🌐 Connect With Me
 
-🔗 LinkedIn
+- 🔗 LinkedIn: https://www.linkedin.com/in/krishnaditi  
+- 📧 Email: krishanaaditi@gmail.com  
 
-📧 Email: aditi.krishana@example.com
+---
 
-🖥️ Portfolio
-
-✨ Passionate about making AI inclusive, multilingual, and impactful—while empowering the next generation of developers.
+✨ *Passionate about building inclusive, multilingual AI systems and empowering learners to create real-world impact through technology.*
